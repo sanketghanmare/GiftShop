@@ -1,0 +1,108 @@
+.fixed-header {
+    /*position: fixed;*/
+    height: 50px;
+    position: fixed;
+    background-color: black;
+    text-align: center;
+    color: red;
+}
+
+.menuitem
+{
+
+    position: relative;
+    text-align: center;
+}
+
+.tableDisplay{
+
+}
+
+.cardstyle{
+    max-height: 200px;
+    min-height: 200px;
+}
+
+.profile{
+    top : 20px;
+    width: 80%;
+}
+
+tr:nth-child(even){background-color:#f5f5f5;}
+
+.tableData {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    margin: 10%;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.register{
+    left : -20px;
+    position: relative;
+    width: 100%;
+
+}
+
+.homeImage{
+    left : -33px;
+    position: relative;
+}
+
+.mainMenu{
+    /*position : center;*/
+    /*padding-left: 20px;*/
+    /*left: -10px*/
+}
+
+
+.fp-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap; /*This will keep the layout at all screen sizes.*/
+    scroll-behavior: smooth;
+}
+
+.giftimage{
+    position: fixed;
+}
+
+.sidebarcomp {
+    left : -34px;
+    position: relative;
+    height: 92vh;
+    overflow: hidden;
+   }
+
+.giftSegment{
+    min-height: 300px;
+    width: 93%;
+}
+
+.notifications {
+    width: 90%;
+}
+
+.fp-panel-main {
+    top: 5px;
+    left: -15px;
+    position: relative;
+    width: 95%;
+}
+.order-seg {
+    top: 5px;
+    left: 0px;
+    position: relative;
+    width: 94%;
+}
+
+
+
+.logo {
+    text-align: center;
+    color: orange;
+}
+

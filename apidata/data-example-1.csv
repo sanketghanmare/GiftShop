@@ -1,0 +1,7 @@
+Permalink,Name,SKU,Parent SKU,Price,Color,Description
+,Soflyy T-Shirt,999-X,,12342,,This shirt is awesome.
+,Soflyy T-Shirt (blue),999-B,999-X,00015,blue,
+,Soflyy T-Shirt (red),999-C,999-X,00015,red,
+,Soflyy Mug,777-X,,15456,,This mug is awesome.
+,Soflyy Mug,777-O,777-X,00009,orange,
+,Soflyy Mug,777-Y,777-X,11234,yellow,
